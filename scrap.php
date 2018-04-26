@@ -1,5 +1,5 @@
 <?php
-	
+/* We never meant to break any policy of amazon, flipkart, or any property owner, The scrapping is done just to feed data and is used for educational purpose only.*/
 	//scrap.php
 	
 	if( isset($_GET['url']) ) {
@@ -32,7 +32,6 @@
 		<Style>.a-section { margin-bottom:10px; border:3px solid black; background:#fff; border-radius:3px; }</style>
 	</head>
 	<body class='container' >
-		
 		<form data-for='scrap' >
 			<div id='response' ></div>
 			
