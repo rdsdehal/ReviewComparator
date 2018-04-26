@@ -1,5 +1,5 @@
 # ZIDDLE : ReviewComparator
-![Ziddle Logo](http://try.ziddle.net/css/logo.png | width=250)
+![Ziddle Logo](http://try.ziddle.net/css/logo.png =250x100)
 
 [Ziddle - Review Comparator "Live Demo"](http://try.ziddle.net/)
 The project "Ziddle" is a Review Comparator based on Sentimental Analysis which gives review ratings to e-commerce websites products like Flipkart, Amazon etc.
